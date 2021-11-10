@@ -3,7 +3,9 @@ img {
 }
 
 body {
-    background-color: #D5D3D2;
+    background-color: orange;
+    font-family: Helvetica;
+    color: white;
 }
 
 div {
